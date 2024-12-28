@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SuratPerjalanan</string>
+    <string name="trip_list_title">Daftar Perjalanan Dinas</string>
+    <string name="add_trip_title">Tambah Perjalanan Dinas</string>
+    <string name="nama_label">Nama</string>
+    <string name="tujuan_label">Tujuan</string>
+    <string name="tanggal_label">Tanggal</string>
+    <string name="keterangan_label">Keterangan</string>
+    <string name="add_trip_button">Tambah Perjalanan</string>
+</resources>
